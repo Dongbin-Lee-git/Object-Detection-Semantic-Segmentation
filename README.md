@@ -16,9 +16,9 @@
 
 <br/><br/>
 
-## [🗝segmentation competition](https://github.com/joielee09/p3-ims-obd-obd-seg-4/tree/master/segmentation)
+## [🗝segmentation competition](https://github.com/Dongbin-Lee-git/Object-Detection-Semantic-Segmentation/tree/master/segmentation)
 
-## [🗝detection competition](https://github.com/joielee09/p3-ims-obd-obd-seg-4/tree/master/detection)
+## [🗝detection competition](https://github.com/Dongbin-Lee-git/Object-Detection-Semantic-Segmentation/tree/master/detection)
 
 <br/><br/>
 
